@@ -1,5 +1,5 @@
 # Power-BI-R-Process-Mining
-Process Mining with Power BI and R Visuals 
+Process Mining with Power BI and R Visuals
 
 # References:
 Power BI project that includes an example for R visuals from library [bupaR](https://www.bupar.net/)
